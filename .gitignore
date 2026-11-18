@@ -1,0 +1,13 @@
+# File Excel tidak ikut ke GitHub (berisi data perusahaan)
+*.xlsx
+
+# Hasil proses lokal (jika dijalankan di laptop)
+hasil/
+contoh/
+
+# Umum
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.streamlit/secrets.toml
